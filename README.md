@@ -12,4 +12,4 @@ If you want to play the game, download "FlooRisLava" folder and run it.
 
 # Mission
 
-Jumping over the blocks to go the top.
+Jumping over the blocks to go to the top.
